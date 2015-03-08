@@ -1,5 +1,7 @@
 # Pittsburgh Haskell demo of IHaskell
 
+[![Join the chat at https://gitter.im/pittsburgh-haskell/ihaskell-demo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pittsburgh-haskell/ihaskell-demo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![IHaskell Notebook logo](https://camo.githubusercontent.com/7693c3a15b2962afd24546cd2a8c7ff299006412/68747470733a2f2f7261772e6769746875622e636f6d2f67696269616e736b792f494861736b656c6c2f6d61737465722f696d616765732f696861736b656c6c2d6c6f676f2e706e67)
 
 ## What is here
