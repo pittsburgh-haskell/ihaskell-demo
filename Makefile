@@ -1,6 +1,6 @@
 all:	PittsburghHaskellDemo.html
 
 %.html:	%.ipynb
-	ipython convert $<
+	ipython nbconvert $<
 
 .PHONY:	all
