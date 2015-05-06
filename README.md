@@ -12,6 +12,12 @@ The static version can also be viewed automatically rendered from source at the 
 
 ## Running the notebook live yourself
 
-The full installation of IHaskell as of March 7, 2015 was used.
+A full installation of IHaskell including all the displays as of March 5, 2015 for GHC 7.8.4 was used.
 
-In addition, the [`asciidiagram`](https://hackage.haskell.org/package/asciidiagram) package was installed.
+Additional libraries required:
+
+- `asciidiagram`
+- `fgl`
+- `graphviz`
+
+A drawback of using IHaskell is lack of dependency or version information about the environment in which the notebook was successfully executed.
