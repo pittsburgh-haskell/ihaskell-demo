@@ -12,7 +12,7 @@ The static version can also be viewed automatically rendered from source at the 
 
 ## Running the notebook live yourself
 
-A full installation of IHaskell including all the displays as of March 5, 2015 for GHC 7.8.4 was used.
+A full installation of IHaskell including all the displays as of May 7, 2015 for GHC 7.10.1 was used.
 
 Additional libraries required:
 
